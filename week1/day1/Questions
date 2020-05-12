@@ -1,0 +1,10 @@
+1. Write a Java Program to find the occurance of the character 'o' in the following String.
+Input: "You have no choice other than following me!"
+output: Occurance of o is: 6
+
+2. Check for the palindrome of the given string:
+Input: "malayalam"
+output: Yes, Palindrome
+
+Input: "Balaji"
+output: No, not a palindrome
