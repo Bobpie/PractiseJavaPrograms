@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	for(int i = 0; i < str.length();i++) {
 		lst.add(str.charAt(i));
 	}
+	
 	for (Character eachChar : lst) {
 		System.out.print(eachChar);
 	}

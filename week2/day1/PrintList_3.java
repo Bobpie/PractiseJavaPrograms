@@ -11,7 +11,9 @@ public static void main(String[] args) {
 	for(int i = 0; i < str.length();i++) {
 		lst.add(str.charAt(i));
 	}
+	
 	Iterator<Character> iterator = lst.iterator();
+	
 	while(iterator.hasNext()) {
 		System.out.print(iterator.next());
 	}

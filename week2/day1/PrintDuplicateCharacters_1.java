@@ -11,6 +11,7 @@ public static void main(String[] args) {
 		if(!set.add(str.charAt(i))) {
 			System.out.print(str.charAt(i)+",");
 		}
+		
 	}
 }
 }
